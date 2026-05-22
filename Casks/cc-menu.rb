@@ -1,6 +1,6 @@
 cask "cc-menu" do
-  version "1.0.0"
-  sha256 "2cccfdaf0a39d9f3b05b0d93fa873a0602059f49531cb8553178363969ec2408"
+  version "1.0"
+  sha256 "5f3f5644514b4906de7c07ab6f426b2c57cfaf829d1b0d1226e9f7c184583937"
 
   url "https://github.com/MasterIceZ/cc-menu/releases/download/v#{version}/cc-menu.zip"
   name "CC Menu"
